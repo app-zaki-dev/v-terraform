@@ -1,0 +1,18 @@
+# Terraform .terraform directory
+.terraform/
+
+# Terraform state file
+*.tfstate
+*.tfstate.backup
+*.tfplan
+*.tfvars
+*.tfbackend
+
+# Crash log files
+crash.log
+
+# Exclude the .terraform.lock.hcl file from terraform >= 0.14, since it is rewritten on every run and not used by Terraform itself
+.terraform.lock.hcl
+
+# 追加
+docs
