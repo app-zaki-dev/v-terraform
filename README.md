@@ -2,10 +2,13 @@
 
 ### リソース
 - VPC
-<!-- - EC2
+- セキュリティグループ
+- EC2
+<!-- 
 - S3
 - ELB
-- Aurora Serverless v2 -->
+- Aurora Serverless v2 
+-->
 
 <br>
 
